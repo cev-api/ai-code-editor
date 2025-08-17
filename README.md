@@ -6,7 +6,7 @@ A powerful code editor that uses OpenAI's latest models for intelligent code edi
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-orange.svg)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-green.svg)
 
-![Main](https://i.imgur.com/geIi92r.png)
+![Main](https://i.imgur.com/QuJ5mKw.png)
 
 ## ✨ Features
 
@@ -104,8 +104,8 @@ python code_editor.py
 4. Submit a pull request
 
 ## 💻 Screenshots
-![Debug](https://i.imgur.com/jrIWpOV.png)
-![Chat](https://i.imgur.com/rlXHJI7.png)
+![Debug](https://i.imgur.com/w1vQTia.png)
+![Chat](https://i.imgur.com/Ix32HSi.png)
 
 
 ## 📄 License
