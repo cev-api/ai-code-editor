@@ -34,7 +34,7 @@ It’s not a replacement for a full IDE, but a fast, cost-flexible tool: you onl
 ```bash
 git clone https://github.com/yourusername/ai-code-editor.git
 cd ai-code-editor
-pip install -r requirements.txt
+pip install openai>=1.0.0
 python code_editor.py
 ```
 
