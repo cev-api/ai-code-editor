@@ -18,6 +18,11 @@ A powerful code editor that uses OpenAI's latest models for intelligent code edi
 - **Live Cost Tracking**: Real-time token usage and cost estimation
 - **Debug Console**: Monitor API calls, requests, and system events
 
+## 🤔Why Does This Exist?
+This editor is designed as a lightweight, focused way to use your OpenAI API key for coding tasks. Instead of being tied to subscription-based IDEs like Cursor or complex setups in VS Code, you can plug in your own API key and immediately get AI-powered code assistance.
+It’s not a replacement for a full IDE, but a fast, cost-flexible tool: you only pay for the API usage you actually consume, making it a great option for rapid prototyping, learning new languages, or experimenting with AI-assisted coding without long-term commitments or extra subscriptions.
+
+
 ## 🚀 Quick Start
 
 ### Prerequisites
