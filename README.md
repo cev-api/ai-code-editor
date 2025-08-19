@@ -32,7 +32,7 @@ It’s not a replacement for a full IDE, but a fast, cost-flexible tool: you onl
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/ai-code-editor.git
+git clone https://github.com/cev-api/ai-code-editor.git
 cd ai-code-editor
 pip install openai>=1.0.0
 python code_editor.py
