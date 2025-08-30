@@ -8,7 +8,7 @@ A powerful code editor that uses OpenAI's latest models for intelligent code edi
 
 ![Main](https://i.imgur.com/QuJ5mKw.png)
 
-## ✨ Features
+## Features
 
 - **AI-Powered Code Editing**: Intelligent code modifications using OpenAI models
 - **Multi-Model Support**: GPT-4, GPT-5, O3 series, and more
@@ -18,12 +18,10 @@ A powerful code editor that uses OpenAI's latest models for intelligent code edi
 - **Live Cost Tracking**: Real-time token usage and cost estimation
 - **Debug Console**: Monitor API calls, requests, and system events
 
-## 🤔Why Does This Exist?
-This editor is designed as a lightweight, focused way to use your OpenAI API key for coding tasks. Instead of being tied to subscription-based IDEs like Cursor or complex setups in VS Code, you can plug in your own API key and immediately get AI-powered code assistance.
-It’s not a replacement for a full IDE, but a fast, cost-flexible tool: you only pay for the API usage you actually consume, making it a great option for rapid prototyping, learning new languages, or experimenting with AI-assisted coding without long-term commitments or extra subscriptions.
+## Why Does This Exist?
+Just to see if I can do it really. Plus it was mostly because Cursor doesn't really work with an OpenAI API even though they say they do.
 
-
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.8+
@@ -44,7 +42,7 @@ python code_editor.py
 3. Click "Save Config"
 4. Select a folder to start working
 
-## 🎮 Usage
+## Usage
 
 ### **Code Editing**
 1. Open a file in the editor
@@ -63,7 +61,7 @@ python code_editor.py
 - Right-click files or use "History" button for version control
 - Files are automatically tracked in version history
 
-## ⚙️ Configuration
+## Configuration
 
 | Parameter | Description | Range | Default |
 |-----------|-------------|-------|---------|
@@ -80,14 +78,14 @@ python code_editor.py
 ### **File Types**
 `.py`, `.js`, `.ts`, `.html`, `.css`, `.java`, `.cpp`, `.c`, `.h`, `.json`, `.xml`, `.md`, `.txt`, `.ino`
 
-## 💡 Pro Tips
+## Pro Tips
 
 - **Cost Optimization**: Use lower temperature (0.0-0.5) for precise editing, higher (1.0-2.0) for creativity
 - **Token Usage**: Uncheck file context for general questions, lower conversation memory for cost-conscious usage
 - **Workflow**: Start with chat to discuss approach, use file context only when needed
 - **Keyboard**: Shift+Enter for multi-line input, Enter to send/submit
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 | Issue | Solution |
 |-------|----------|
@@ -96,24 +94,9 @@ python code_editor.py
 | High Token Usage | Reduce conversation memory or file context inclusion |
 | Performance Issues | Check debug console for error logs |
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 💻 Screenshots
+## Screenshots
 ![Debug](https://i.imgur.com/w1vQTia.png)
 ![Chat](https://i.imgur.com/Ix32HSi.png)
 
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
----
-
-**Made with ❤️ (and some AI) by CevAPI**
-
-*The age of the programmer is dead!*
